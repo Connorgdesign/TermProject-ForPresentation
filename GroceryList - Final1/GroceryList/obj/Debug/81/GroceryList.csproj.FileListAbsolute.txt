@@ -1,0 +1,375 @@
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\GroceryList.GroceryList-Signed.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\GroceryList.nuget.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\GroceryList.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\bin\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\values\colors.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\values\strings.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\values\styles.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\layout\main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\layout\second.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\layout\list_item.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\layout\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\drawable\beverages.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\drawable\dairy.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\drawable\meat.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\res\drawable\vegetables.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\R.cs.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\R.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\uploadflags.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\bin\Debug\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy\GroceryList\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList-Signed.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.nuget.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\bin\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\values\colors.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\values\strings.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\values\styles.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\layout\main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\layout\second.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\layout\list_item.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\layout\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\beverages.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\dairy.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\meat.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\vegetables.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\R.cs.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\R.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\uploadflags.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\bin\Debug\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\fruit.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\bread.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\cart.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\money.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList-Signed.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.nuget.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\bin\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\colors.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\strings.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\styles.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\second.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\list_item.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\dairy.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\beverages.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\fruit.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\vegetables.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\meat.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\bread.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\cart.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\money.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\R.cs.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\R.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\uploadflags.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\bin\Debug\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout-normal-land\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\GroceryList.GroceryList-Signed.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.nuget.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.dll
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\bin\GroceryList.GroceryList.apk
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\colors.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\strings.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\values\styles.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\main.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\second.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\list_item.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\dairy.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\beverages.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\fruit.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\vegetables.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\meat.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\bread.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\cart.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\drawable\money.png
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\R.cs.flag
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\R.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\uploadflags.txt
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\bin\Debug\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\GroceryList.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Data.Sqlite.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout-land\third.xml
+C:\Users\Cody Connor\Desktop\GroceryList - Copy - Copy - Copy - Copy\GroceryList\obj\Debug\81\res\layout-land\list_item.xml

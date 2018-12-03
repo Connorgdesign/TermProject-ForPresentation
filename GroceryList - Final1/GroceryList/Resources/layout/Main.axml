@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="Enter new grocery list item"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/groceryItemText"
+		android:gravity="center"
+		android:foregroundGravity="center"
+		android:layout_marginLeft="71.0dp"
+		android:layout_marginTop="24.5dp" />
+	<EditText
+		android:id="@+id/groceryItemEdit"
+		android:layout_width="226.5dp"
+		android:imeOptions="actionGo"
+		android:inputType="text"
+		android:layout_height="47.7dp"
+		android:layout_marginTop="2.0dp"
+		android:layout_marginLeft="65.0dp" />
+	<TextView
+		android:text="Enter estimated price"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/priceItemText"
+		android:layout_marginTop="7.5dp"
+		android:layout_marginLeft="90.0dp" />
+	<EditText
+		android:id="@+id/priceItemEdit"
+		android:layout_width="226.5dp"
+		android:imeOptions="actionGo"
+		android:inputType="text"
+		android:layout_height="46.3dp"
+		android:layout_marginTop="0.0dp"
+		android:layout_marginLeft="66.5dp" />
+	<TextView
+		android:text="Type of grocery item"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/text18"
+		android:layout_marginTop="18.0dp"
+		android:layout_marginLeft="92.5dp" />
+	<Spinner
+		android:layout_width="165.5dp"
+		android:layout_height="wrap_content"
+		android:id="@+id/spinner1"
+		android:layout_marginLeft="93.0dp"
+		android:layout_marginTop="11.5dp" />
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="349.0dp"
+		android:layout_height="41.0dp"
+		android:id="@+id/linearLayout1"
+		android:layout_marginTop="11.5dp">
+		<Button
+			android:text="View Items"
+			android:layout_width="163.7dp"
+			android:layout_height="36.5dp"
+			android:id="@+id/viewButton"
+			android:layout_marginLeft="12.5dp" />
+		<Button
+			android:text="Enter Item"
+			android:layout_width="165.3dp"
+			android:layout_height="36.5dp"
+			android:id="@+id/enterItemButton" />
+	</LinearLayout>
+	<Button
+		android:text="More grocery list info"
+		android:layout_width="328.0dp"
+		android:layout_height="36.5dp"
+		android:id="@+id/moreButton"
+		android:layout_marginLeft="14.0dp" />
+</LinearLayout>
+
